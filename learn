@@ -1,0 +1,19 @@
+// in ra màn hình 
+document.write("hello world");
+
+// Khai báo biến
+var name = "cuong dep trai"
+const name = "cuong dep trai"
+let name = "cuong dep trai"
+
+// Toán tử
++ - * /
+
+// nối chuỗi
++
+
+// Đối tượng (object)
+let hoang = {
+  name =
+}
+
